@@ -1,2 +1,1 @@
-# Controle de Estoque- Python
-
+# Controle de Estoque - Python
